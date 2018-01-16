@@ -5,3 +5,4 @@
 444444444444444444444444
 local update
 local update02
+internet update
